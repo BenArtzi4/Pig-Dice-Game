@@ -2,7 +2,8 @@
 
 Welcome to Pig Game, a classic dice rolling game implemented in HTML, CSS, and JavaScript. Challenge your friends and family to see who can reach the highest score and become the ultimate Pig Game champion!
 
-![Game Screenshot](screenshot.png)
+![image](https://github.com/BenArtzi4/Pig-Dice-Game/assets/85943633/14ee9bbd-716e-49a8-bb85-b52b82dd685e)
+
 
 ## How to Play
 
