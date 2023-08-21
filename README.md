@@ -1,17 +1,57 @@
 # Pig Game
 
-Welcome to Pig Game, a dice game written in JavaScript with CSS and HTML!
+Welcome to Pig Game, a classic dice rolling game implemented in HTML, CSS, and JavaScript. Challenge your friends and family to see who can reach the highest score and become the ultimate Pig Game champion!
 
-## How to play:
+![Game Screenshot](screenshot.png)
 
-1. The game is played by two players, and the goal is to be the first to reach a score of 100 points.
-2. Each turn, a player rolls a dice. If the dice lands on 1, the player loses all their points for that turn and their turn ends. If the dice lands on any other number, the player has the option to continue rolling or to hold.
-3. If the player chooses to hold, their turn ends and their points for that turn are added to their total score. If they choose to roll again, they risk losing all their points if they roll a 1.
-4. The game ends when one player reaches a score of 100 points or more, at which point they are declared the winner.
+## How to Play
 
-## To run the game:
+1. Each player takes turns rolling a dice.
+2. Roll the dice by clicking the "Roll Dice" button.
+3. Each roll's value is added to the current score.
+4. You can choose to "Hold" your current score to save it.
+5. If you roll a 1, your current score is lost, and it's the next player's turn.
+6. The first player to reach the specified highest score wins!
 
-1. Download the file and open the index.html file in your web browser.
-2. The game will start automatically and you can begin playing by clicking the "Roll" button.
-3. low the prompts on the screen to roll the dice and choose whether to hold or roll again.
-4. The score for each player will be displayed on the screen.
+## Features
+
+- Interactive gameplay with dynamic dice rolls.
+- Clear player indicators and current score display.
+- Player turn switching with automatic score updating.
+- A "New Game" button to start fresh rounds.
+- Responsive design for an optimal gaming experience on different devices.
+
+## Installation
+
+1. Clone this repository to your local machine using:
+
+```
+git clone https://github.com/your-username/pig-game.git
+```
+
+2. Open the repository's folder:
+
+```
+`cd pig-game
+```
+
+3. Open the `index.html` file in a web browser to start playing!
+
+## Contributing
+
+Contributions to enhance and improve Pig Game are welcome! Here are some ways you can contribute:
+
+- Implement new features and improvements.
+- Fix bugs and issues.
+- Optimize the game's performance.
+- Add additional styling or themes.
+
+Please make sure to follow good coding practices and provide clear commit messages when submitting pull requests.
+
+## Credits
+
+This Pig Game project was inspired by a classic dice game and was built by Gal Ben Artzi. Feel free to customize and modify the game as you like. The game graphics and design are provided by [Attribution for game assets, if applicable].
+
+
+
+
